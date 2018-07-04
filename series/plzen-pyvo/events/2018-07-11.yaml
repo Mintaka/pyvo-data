@@ -7,12 +7,14 @@ venue: beer-factory
 description: |
   Vítejte!
 
-  Připravili jsme zajímavé téma pro ty, kteří na vzdory prázdninovému času chtějí, mohou a příjdou na další z našich setkání.
-  Pozvali jsme programátory (v některých případech spíše vědce a průkopníky), z několika inspirativních firem, 
+  Připravili jsme zajímavé téma pro ty, kteří na vzdory prázdninovému času, chtějí, mohou a příjdou na další z našich setkání.
+  Pozvali jsme programátory (v některých případech spíše vědce a prúkopníky), z několika inspirativních firem, 
   kteří pracují s Pythonem.
   
   Ve formátu 10..15 minut by nám měli povědět o své cestě k Pythonu, o tom jaké knihovny, frameworky, technologie
-  při své práci používají, kde vidí klady a zápory, jejich use case nasazení Pythonu a jeho ekosystému.
+  při své práci používají, kde vidí klady a zápory jejich use case nasazení Pythonu a jeho ekosystému.
+  
+  Jistě bude prostor i na další témata, za všechny jmenuje organizaci našich PyLadies.
   
 talks:
   - title: Úvodní slovo
